@@ -5,7 +5,7 @@ Lab 2 for Shubham Patel
 
 Hello-world Repo: https://github.com/shubspatel/hello-world
 
-# Activity 2:
+# Activity 3:
   
   Fork: https://github.com/shubspatel/Lab2Fork-102 
   
@@ -13,5 +13,5 @@ Hello-world Repo: https://github.com/shubspatel/hello-world
   
   I changed the Lat/Lon variables to take in input as they were originally intended. Also, I removed an unnecessary print statement regarding the google_maps_url variable. There is no need to print each result - only the end result is what's really important. 
 
-# Activity 3:
+# Activity 4:
 Issue link: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/137
